@@ -1,0 +1,2 @@
+# BIOSPowerManager
+windows11的BIOS与电源管理
